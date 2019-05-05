@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uubaimohs.edwardmcintyre.com/sitemap.xml
